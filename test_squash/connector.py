@@ -9,8 +9,4 @@ class B:
         self.b = b
 
 def add_a_and_b():
-    a = A
-    b = B
-    a.A("a")
-    b.B("b")
     return a + b
