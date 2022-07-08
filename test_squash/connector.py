@@ -8,5 +8,5 @@ class B:
     def B(self, b):
         self.b = b
 
-def add_a_and_b():
+def add_a_and_b(a, b):
     return a + b
