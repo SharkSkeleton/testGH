@@ -10,3 +10,5 @@ class B:
 
 def add_a_and_b(a, b):
     return a + b
+
+print(add_a_and_b(1, 2))
